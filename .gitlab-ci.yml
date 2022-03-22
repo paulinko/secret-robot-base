@@ -4,4 +4,3 @@ include:
 
 build:
   extends: .kaniko
-
